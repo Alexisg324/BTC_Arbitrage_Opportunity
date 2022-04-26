@@ -41,7 +41,10 @@ In order for the user to use the app, there must be 2 or more csv files included
 
 Below is an example of what that analysis looks like for the user: 
 
+Plot Graph: The first screenshot is an example of early data arbitrage between coinbase and bitstamp
 ![Plot Graph: The first screenshot is an example of early data arbitrage between coinbase and bitstamp](https://github.com/Alexisg324/BTC_Arbitrage_Opportunity/blob/main/BTC_Arbitrage_Opportunity/ScreenShots/1.png?raw=true)
+
+The second screenshot is an example of the exact anaysis, including mean, minimum, standard deviation, etc
 ![The second screenshot is an example of the exact anaysis, including mean, minimum, standard deviation, etc](https://github.com/Alexisg324/BTC_Arbitrage_Opportunity/blob/main/BTC_Arbitrage_Opportunity/ScreenShots/2.png?raw=true)
 
 ## Contributers
